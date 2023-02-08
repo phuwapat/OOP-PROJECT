@@ -99,7 +99,7 @@ class Show:
         self.member_info = member_info
         self.booking = booking
     pass
-class Member_info:
+class MemberInfo:
     def __init__(self, member_id):
         self.member_id = member_id
     pass
